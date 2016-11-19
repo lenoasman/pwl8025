@@ -1,3 +1,3 @@
-<?php 
-     echo "coba";   
+<?php
+      echo "coba";
 ?>
