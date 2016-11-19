@@ -1,3 +1,3 @@
 <?php
-    echo "koneksi";
+    echo "perbaikan";
 ?>
